@@ -79,7 +79,6 @@ echo "Осталось $days дней. $message<br>";
 
 ## 6. Список использованных источников
 - [PHP.net](https://www.php.net/)
-- [ApacheFriends (XAMPP)](https://www.apachefriends.org/)
 - [Учебник PHP](https://www.w3schools.com/php/)
 
 ---
