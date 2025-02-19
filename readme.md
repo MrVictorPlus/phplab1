@@ -38,10 +38,8 @@
 ### Вывод данных
 ```php
 <?php
-// Вывод с echo
 echo "Hello, World with echo!";
 
-// Вывод с print
 print "Hello, World with print!";
 ?>
 ```
@@ -52,10 +50,8 @@ print "Hello, World with print!";
 $days = 288;
 $message = "Все возвращаются на работу!";
 
-// Конкатенация строк
 echo "Осталось " . $days . " дней. " . $message . "<br>";
 
-// Вывод через интерполяцию
 echo "Осталось $days дней. $message<br>";
 ?>
 ```
